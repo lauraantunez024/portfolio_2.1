@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { CheckIcon, BookOpenIcon, CodeBracketSquareIcon } from '@heroicons/react/24/solid'
 
 export default function About() {
     return (
@@ -11,7 +11,12 @@ export default function About() {
                     <br className="hidden lg:inline-block" /> Pleasure to meet you.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        This is some stuff about me.
+                    <CheckIcon className="h-5 w-5 text-blue-500 inline"/>  
+                        Quality Assurance Engineer <br className=" lg:inline-block" />  
+                        <CodeBracketSquareIcon className="h-5 w-5 text-blue-500 inline"/>
+                          Aspiring Full Stack Developer <br className=" lg:inline-block" />  
+                          <BookOpenIcon className="h-5 w-5 text-blue-500 inline"/>
+                          Lover of knowledge
                     </p>
                     <div className='flex justify-center'>
                         <a

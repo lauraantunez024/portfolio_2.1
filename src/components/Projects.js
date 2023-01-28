@@ -16,7 +16,7 @@ export default function Projects() {
             </div>
             <div className='flex flex-wrap -m-4'>
                 {projects.map((project) => (
-                    <a href={project.link}
+                    <a href={project.deployedURL}
                     key={project.image}
                     className='sm:w-1/2 w-100 p-4'>
                         <div className='flex relative'>
