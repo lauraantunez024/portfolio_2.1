@@ -1,6 +1,8 @@
 export const projects = [
     {
-      title: "CodeQuiz",
+      title: "E-Commerce RESTful API",
+      subtitle: "Timed quiz that penalizes you for wrong answers",
+      description: "HTML/CSS, Javascript, JQuery",
       image: "./codequiz.png",
       deployedURL: "https://lauraantunez024.github.io/CodeQuiz/",
       repoURL: "https://github.com/lauraantunez024/CodeQuiz",
@@ -8,6 +10,8 @@ export const projects = [
     },
     {
       title: "Password Generator",
+      subtitle: "Creates a password for you based on the requirements you set",
+      description: "HTML/CSS, Javascript, Regex",
       image: "./password_generator.png",
       deployedURL: "https://lauraantunez024.github.io/PasswordGenerator/",
       repoURL: "https://github.com/lauraantunez024/PasswordGenerator",
@@ -15,6 +19,8 @@ export const projects = [
     },
     {
       title: "Interactive Sex Ed Map",
+      subtitle: "Created as part of an article for the Hechinger Report",
+      description: "HTML/CSS, JavaScript, JQuery, Python/SQL for data manipulation",
       image: "./SexEdMap.png",
       deployedURL:
         "https://lauraantunez024.github.io/SexEd_MapInteractive/",
@@ -23,6 +29,8 @@ export const projects = [
     },
     {
       title: "README-Generator",
+      subtitle: "Create a formatted README.md based on your inputs",
+      description: "Node.js",
       image: "./README-generator.png",
       deployedURL:
         "https://lauraantunez024.github.io/gravity-lines/",

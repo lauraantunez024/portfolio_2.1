@@ -5,7 +5,7 @@ export default function About() {
     return (
         <section id = "about">
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items=-center">
-                <div className="lg:flex-grow md:w-1/2 lg:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+                <div className="lg:flex-grow lg:pl-24 md:w-1/2 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Laura.
                     <br className="hidden lg:inline-block" /> Pleasure to meet you.
@@ -28,17 +28,16 @@ export default function About() {
                         href='#contact'
                         className='ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg'
                         >
-                            Want to hire me?
+                            Want to work together?
 
                         </a>
                     </div>
                 </div>
-                <div className='lg:max-w-lg lg:w-full md:w-1/2 w-5/6'>
+                <div className='lg:max-w-lg lg:w-full md:ml-4 md:w-1/2 w-5/6 sm:pl-20'>
                     <img
                     className='object-cover object-center rounded max-w-xs'
                     alt="Author photo"
                     src="./Laura_Antunez_hr.png"
-
                     />
 
                 </div>
