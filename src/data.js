@@ -58,3 +58,10 @@ export const projects = [
       altAttribute: "team builder app",
     },
   ];
+
+
+  export const skills = ['Node', 'React', 'Python', 'Express.js', 'Ruby on Rails', 'RSPEC'];
+
+
+  export const testimonials = [ './jacob_rec.png'
+  ]
