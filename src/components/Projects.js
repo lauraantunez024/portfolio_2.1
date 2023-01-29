@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { projects } from "../data";
+import { CircleStackIcon } from '@heroicons/react/24/solid';
 
 export default function Projects() {
     return (
@@ -10,8 +11,9 @@ export default function Projects() {
                     <h1 className='sm:text-4xl text-3xl font-medium title-font mb-4 text-white'>
                     Apps I've built
                     </h1>
+                    <CircleStackIcon className='h-9 w-9 text-blue-400 mx-auto mb-2'/>
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-                    Hover fo
+                    Hover for deets!
                     </p>
                 </div>
             <div className='flex flex-wrap -m-4 items-center'>

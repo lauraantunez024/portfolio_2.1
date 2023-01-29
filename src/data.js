@@ -85,8 +85,8 @@ export const projects = [
 
   export const contacts = [
     {
-      email: 'lauraantunez024@gmail.com',
-      phoneNumber: '3052901430',
+      email: 'LauraAntunez024@gmail.com',
+      phoneNumber: '(305)290-1430',
       Github: 'github.com/lauraantunez024',
       LinkedIN: 'https://www.linkedin.com/in/laura-antunez-2a4a12182/',
       Resume: './Resume2022.pdf'
