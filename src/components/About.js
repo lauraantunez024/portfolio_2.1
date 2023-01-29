@@ -1,5 +1,6 @@
 import React from 'react';
 import { CheckIcon, BookOpenIcon, CodeBracketSquareIcon } from '@heroicons/react/24/solid'
+import Laura from '../images/Laura_Antunez_hr.png'
 
 export default function About() {
     return (
@@ -33,11 +34,11 @@ export default function About() {
                         </a>
                     </div>
                 </div>
-                <div className='lg:max-w-lg lg:w-full md:ml-4 md:w-1/2 w-5/6 sm:pl-20'>
+                <div className='lg:max-w-lg lg:w-full md:ml-4 md:w-1/2 w-5/6 sm:justify-center flex'>
                     <img
-                    className='object-cover object-center rounded max-w-xs'
+                    className='object-cover object-center flex rounded max-w-xs'
                     alt="Author photo"
-                    src="./Laura_Antunez_hr.png"
+                    src= {Laura}
                     />
 
                 </div>

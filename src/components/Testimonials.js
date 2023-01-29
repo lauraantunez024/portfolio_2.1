@@ -4,7 +4,7 @@ import { testimonials } from '../data';
 export default function Testimonials() {
     return(
         <section id='testimonials'>
-            <div className='container px-5 py-10 px-auto text-center'>
+            <div className='container px-5 py-10 mx-auto text-center'>
                 <h1 className='sm:text-4xl text-3xl font-medium title-font text-center text-white mb-12'>
                     Testimonials
                 </h1>

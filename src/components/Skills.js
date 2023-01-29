@@ -1,6 +1,6 @@
 import React from 'react';
 import { skills } from '../data';
-import { CpuChipIcon, RocketLaunchIcon, SparklesIcon, LightBulbIcon } from '@heroicons/react/24/solid'
+import { RocketLaunchIcon, SparklesIcon } from '@heroicons/react/24/solid'
 
 
 export default function Skills() {

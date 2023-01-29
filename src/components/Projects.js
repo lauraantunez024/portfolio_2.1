@@ -11,7 +11,7 @@ export default function Projects() {
                     Apps I've built
                     </h1>
                     <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
-                    Hover for the deets
+                    Hover fo
                     </p>
                 </div>
             <div className='flex flex-wrap -m-4 items-center'>
