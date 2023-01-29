@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio_2.1/static/css/main.5a54cadd.css",
-    "main.js": "/portfolio_2.1/static/js/main.daf7a3fc.js",
+    "main.css": "/portfolio_2.1/static/css/main.7c5a4e3f.css",
+    "main.js": "/portfolio_2.1/static/js/main.0360365b.js",
     "static/js/787.18618382.chunk.js": "/portfolio_2.1/static/js/787.18618382.chunk.js",
+    "static/media/Laura_Antunez_hr.png": "/portfolio_2.1/static/media/Laura_Antunez_hr.444254b60c9deb82feb1.png",
+    "static/media/README-generator.png": "/portfolio_2.1/static/media/README-generator.9eb33b4878ac4951be18.png",
+    "static/media/ecomm_api.png": "/portfolio_2.1/static/media/ecomm_api.159bbfa69e9dfd4e30d8.png",
+    "static/media/weather-dashboard.png": "/portfolio_2.1/static/media/weather-dashboard.17ee98bf8226604d0198.png",
+    "static/media/SexEdMap.png": "/portfolio_2.1/static/media/SexEdMap.720853e4da4e2a45cbdd.png",
+    "static/media/Resume2022.pdf": "/portfolio_2.1/static/media/Resume2022.6207aef9039386b57dbc.pdf",
+    "static/media/team-builder.png": "/portfolio_2.1/static/media/team-builder.91057a95788ca43aee30.png",
+    "static/media/text-editor.png": "/portfolio_2.1/static/media/text-editor.5d974c6a30808fa077d8.png",
+    "static/media/js.png": "/portfolio_2.1/static/media/js.28013f8c797dd2e2c554.png",
     "index.html": "/portfolio_2.1/index.html",
-    "main.5a54cadd.css.map": "/portfolio_2.1/static/css/main.5a54cadd.css.map",
-    "main.daf7a3fc.js.map": "/portfolio_2.1/static/js/main.daf7a3fc.js.map",
+    "main.7c5a4e3f.css.map": "/portfolio_2.1/static/css/main.7c5a4e3f.css.map",
+    "main.0360365b.js.map": "/portfolio_2.1/static/js/main.0360365b.js.map",
     "787.18618382.chunk.js.map": "/portfolio_2.1/static/js/787.18618382.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a54cadd.css",
-    "static/js/main.daf7a3fc.js"
+    "static/css/main.7c5a4e3f.css",
+    "static/js/main.0360365b.js"
   ]
 }
