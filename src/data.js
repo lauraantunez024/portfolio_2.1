@@ -60,8 +60,14 @@ export const projects = [
   ];
 
 
-  export const skills = ['Node', 'React', 'Python', 'Express.js', 'Ruby on Rails', 'RSPEC'];
+  export const skills = ['Node.js', 'React', 'Express', 'Ruby on Rails', 'RSPEC and Jest for testing', 'Progressive Web Applications', 'Python for Data Science', 'MVC and MERN architecture', 'Fluent in English and Spanish', 'RESTful and GraphQL API'];
+  
 
-
-  export const testimonials = [ './jacob_rec.png'
+  export const testimonials = [ 
+    {
+      name: 'Jacob Stevens',
+      company: 'QA Manager at Springbig',
+      image: './js.png',
+      quote: "Laura picks things up so fast it's amazing. Not only technical aptitude, but her comprehension of product value, team objectives, and work practices. Her growth in the past year has been outstanding. She is a fantastic addition to any team, highly cooperative and communicative, and also a valuable professional voice to identify problems, inefficiencies and advocate not only for herself but for other roles and team members. You will not regret giving Laura the chance to continue moving forward on her impressive trajectory."
+    }
   ]
