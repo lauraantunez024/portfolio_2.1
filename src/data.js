@@ -78,7 +78,7 @@ export const projects = [
       name: 'Jacob Stevens',
       company: 'QA Manager at Springbig',
       image: Jacob,
-      quote: "Laura picks things up so fast it's amazing. Not only technical aptitude, but her comprehension of product value, team objectives, and work practices. Her growth in the past year has been outstanding. She is a fantastic addition to any team, highly cooperative and communicative, and also a valuable professional voice to identify problems, inefficiencies and advocate not only for herself but for other roles and team members. You will not regret giving Laura the chance to continue moving forward on her impressive trajectory."
+      quote: " \"Laura picks things up so fast it's amazing. Not only technical aptitude, but her comprehension of product value, team objectives, and work practices. Her growth in the past year has been outstanding. She is a fantastic addition to any team, highly cooperative and communicative, and also a valuable professional voice to identify problems, inefficiencies and advocate not only for herself but for other roles and team members. You will not regret giving Laura the chance to continue moving forward on her impressive trajectory.\""
     }
   ]
 
